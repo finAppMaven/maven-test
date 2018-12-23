@@ -3,7 +3,7 @@
 
   <groupId>com.ziejacode</groupId>
   <artifactId>gitHubRepoMavenTest</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.2</version>
   <packaging>jar</packaging>
 
   <name>gitHubRepoMavenTest</name>
@@ -38,7 +38,7 @@
   </distributionManagement>
   <scm>
   	<connection>scm:git:https://github.com/finAppMaven/maven-test.git</connection>
-    <tag>yourTaxCalculation-0.0.1</tag>
+    <tag>gitHubRepoMavenTest-0.0.2</tag>
   </scm>
   <build>
   
